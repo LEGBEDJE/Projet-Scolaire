@@ -1,9 +1,4 @@
-/*
-*
-*  Created by caterina calgaro on 08/09/2020.
-*  Copyright 2020 INRIA LILLE NORD EUROPE. All rights reserved.
-*
-*/
+
 
 #if !defined (__IOSTREAM_H)
 #include <iostream>
